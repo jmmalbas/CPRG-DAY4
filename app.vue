@@ -1,6 +1,13 @@
 <template>
-  <div>
+  <div id="app">
     <AppHeader />
-    <NuxtHeader />
+    <NuxtPage />
   </div>
 </template>
+
+<style>
+body,
+.app {
+  margin: 0;
+}
+</style>
