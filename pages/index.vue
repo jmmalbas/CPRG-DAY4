@@ -1,6 +1,5 @@
 <template>
   <div>
-    <AppHeader />
-    <NuxtHeader />
+<h1>HELLO CPRG</h1>
   </div>
 </template>
